@@ -20,7 +20,7 @@
 
 ## 🏢 Who We Are
 
-**CR Technology** is a creative technology startup built around one simple belief: **every idea deserves to exist in the real world.** We specialize in crafting mobile apps, web solutions, digital designs, and multimedia productions — blending technical precision with artistic creativity.
+**CR TECNOLOGY** is a creative technology startup built around one simple belief: **every idea deserves to exist in the real world.** We specialize in crafting mobile apps, web solutions, digital designs, and multimedia productions — blending technical precision with artistic creativity.
 
 We're not a giant corporation. We're a passionate team that proves you don't need massive resources to build something extraordinary. What we have is better: **vision, skill, and the drive to see every project through to the end.**
 
@@ -70,11 +70,11 @@ We're not a giant corporation. We're a passionate team that proves you don't nee
 
 ## 🌟 Our Mission
 
-At **CR Technology**, we believe that the distance between a great idea and a great product is just **the right team with the right tools.**
+At **CR TECNOLOGY**, we believe that the distance between a great idea and a great product is just **the right team with the right tools.**
 
 Every project we take on — no matter how big or small — gets the same energy: full creativity, full commitment, full delivery. We don't cut corners. We don't leave things half-done. We build things we're proud of.
 
-Whether it's a mobile app for a startup, a visual brand identity, a 3D animation, or a full IT management deployment — **CR Technology shows up and delivers.**
+Whether it's a mobile app for a startup, a visual brand identity, a 3D animation, or a full IT management deployment — **CR TECNOLOGY shows up and delivers.**
 
 ---
 
