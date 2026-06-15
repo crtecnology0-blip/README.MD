@@ -1,12 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CR%20Technology&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Where%20Ideas%20Become%20Reality&descAlignY=58&descSize=18&descColor=aaaaff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CR%20TECNOLOGY&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Where%20Ideas%20Become%20Reality&descAlignY=58&descSize=18&descColor=aaaaff)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=🚀+Welcome+to+CR+Technology;💡+Turning+every+idea+into+reality;🎨+Where+creativity+meets+code;📱+Apps+%7C+Web+%7C+Design+%7C+Multimedia;🌎+Building+what+others+only+imagine" alt="Animated Titles" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=🚀+Welcome+to+CR+TECNOLOGY;💡+Turning+every+idea+into+reality;🎨+Where+creativity+meets+code;📱+Apps+%7C+Web+%7C+Design+%7C+Multimedia;🌎+Building+what+others+only+imagine" alt="Animated Titles" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=4500&pause=1800&color=9B8FFF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=⚡+We+don't+just+talk+about+ideas+—+we+build+them;🔧+From+mobile+apps+to+3D+animations%2C+we+do+it+all;🎯+Creative+vision+%2B+technical+precision+%3D+CR+Technology;🌐+Code+%7C+Design+%7C+Innovate+%7C+Deliver" alt="Animated Subtitles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=4500&pause=1800&color=9B8FFF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=⚡+We+don't+just+talk+about+ideas+—+we+build+them;🔧+From+mobile+apps+to+3D+animations%2C+we+do+it+all;🎯+Creative+vision+%2B+technical+precision+%3D+CR+TECNOLOGY;🌐+Code+%7C+Design+%7C+Innovate+%7C+Deliver" alt="Animated Subtitles" />
 
 <br/><br/>
 
@@ -86,7 +86,7 @@ We'd love to hear it. Follow us, explore our repositories, and let's build somet
 
 <div align="center">
 
-[![GitHub Follow](https://img.shields.io/github/followers/CR-tecnology?label=Follow%20CR%20Technology&style=for-the-badge&logo=github&color=181717)](https://github.com/CR-tecnology)
+[![GitHub Follow](https://img.shields.io/github/followers/CR-tecnology?label=Follow%20CR%20TECNOLOGY&style=for-the-badge&logo=github&color=181717)](https://github.com/CR-tecnology)
 
 </div>
 
